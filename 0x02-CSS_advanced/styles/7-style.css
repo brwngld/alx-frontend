@@ -10,8 +10,8 @@
     --text-color: var(--color-black);
     
     /* Custom Fonts */
-    --font-family-base: "Helvetica Neue", "Open Sans", Helvetica, Arial, sans-serif; 
-    --font-family-title: "Helvetica Neue", "Raleway", Helvetica, Arial, sans-serif;
+    --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    --font-family-title: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
     
     /* Cusomt font sizes */
     --font-size-small: 1.2rem;
