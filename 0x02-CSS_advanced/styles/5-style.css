@@ -24,7 +24,7 @@ html {
 }
 
 body {
-    color: #161616;
+    color: var(--text-color);
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
 }
@@ -44,9 +44,9 @@ a {
 }
 
 .card-category {
-    color: #D73953;
+    color: var(--color-primary);
 }
 
 .section-tagline{
-    color: #D73953;
+    color: var(--color-primary);
 }

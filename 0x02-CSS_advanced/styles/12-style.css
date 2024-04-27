@@ -46,7 +46,7 @@ html {
 }
 
 body {
-    color: #161616;
+    color: var(--text-color);
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
     font-weight: var(--font-weight-regular);
@@ -70,7 +70,7 @@ a {
 }
 
 .card-category {
-    color: #D73953;
+    color: var(--color-primary);
 }
 
 .section-header{
@@ -86,7 +86,7 @@ a {
 }
 
 .section-tagline{
-    color: #D73953;
+    color: var(--color-primary);
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
