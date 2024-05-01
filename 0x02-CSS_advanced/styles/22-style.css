@@ -404,7 +404,7 @@ box-sizing: border-box;
 
   /* Custom Section tile properties */
    --section-title-margin: 0;
-   --section-title-color: var(--color-black)
+   --section-title-color: var(--color-black);
    
    /*Customs padding */
    --section-padding: 5rem 0;
